@@ -31,4 +31,5 @@ function findTheCheese (array) {
       return array[i]
     }
     }
+  return "no cheese!"
 }
